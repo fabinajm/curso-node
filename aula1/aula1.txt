@@ -1,0 +1,9 @@
+
+Criado em 2009 por Ryan Dahl
+O nodeJs é uma linguagem server side ( similar a PHP, Java, etc ) porém tem seus diferenciais.
+
+.O NodeJS trabalha de forma assincrona com isso, o uso de uma thread no server consegue processar várias requisições ao mesmo tempo, deixando o processo muito mais rápido e usando menos recurso.
+.A engine do node foi construida para o google chrome para interpretar javascript ( chrome v8 ) que é escrita em c++, e é extremamente rápida.
+.Ele é JIT ( compila o pedaço quando é necessário - just in time )
+.Por ser javascript ela fala com todo o universo, front e back, sendo mais fácil ter um full stack;
+.open source 
