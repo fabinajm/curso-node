@@ -1,0 +1,5 @@
+Var Hoisting
+
+.posso declarar um var em baixo e ele joga para cima e vale para todo o código, porém se eu criar dentro de um if ele só vai existir se passar pelo if
+
+.senão colocar tipo de variavel como var consigo usar a variavel em qualquer lugar, ela vira global

@@ -1,0 +1,8 @@
+sem nada - variável global
+var - Function scope ---- vale para toda a função
+let - Block scope ---- vale para o bloco ( se tiver dentro de um if já não pega depois do if, por exemplo )
+let - não é hoisting ou seja, preciso declarar antes de usar, não dá para declarar depois do uso
+
+const - igual o let, porem o valor não pode ser alterado
+const - precisa ser inicializada com valor
+const - no caso de objeto você pode alterar atributos mas não a inicialização da variável
